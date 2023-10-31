@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "0c26f2b7-28df-4d6b-1a3c-5962a832615c",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "TIP - BROWSE ASSETS LIBRARY FOR MORE",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

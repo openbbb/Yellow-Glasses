@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "79a80950-a54c-a3e7-c478-5868c53ca5aa",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "3DFashionAssets",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

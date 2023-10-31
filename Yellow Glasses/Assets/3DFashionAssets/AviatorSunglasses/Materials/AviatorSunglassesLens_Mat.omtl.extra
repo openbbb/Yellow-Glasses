@@ -1,0 +1,51 @@
+[
+  {
+    "guid": {
+      "a": "bc4dc91d-3691-16ea-bd2e-1a95b32833a0",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "AviatorSunglassesLens_Mat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5625506783579807588, 2175396199872033946)",
+    "references": [
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "28150b19-fb69-d4ea-642c-7bdabbe1c1a0"
+      },
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "u_NormalTex",
+        "guid": "c2079541-34e6-b2b4-b083-23926b78c92d"
+      },
+      {
+        "propertyName": "u_MRATex",
+        "guid": "e7231912-353b-99d6-587a-504e55903b2c"
+      },
+      {
+        "propertyName": "u_EnvTex",
+        "guid": "00000000-0000-0000-0000-000000000020"
+      },
+      {
+        "propertyName": "u_EmissiveTex",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "u_FresnelTex",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "u_ThinTex",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      }
+    ]
+  }
+]

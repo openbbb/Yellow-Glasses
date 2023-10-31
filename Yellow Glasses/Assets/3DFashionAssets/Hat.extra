@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "8e2f4559-b0da-4e9a-27ce-99b6d7e986c0",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Hat",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

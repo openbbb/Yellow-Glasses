@@ -1,0 +1,99 @@
+[
+  {
+    "guid": {
+      "a": "486b9424-d01b-b030-23a5-fea09d8cf0e0",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "Hat_Mat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5185044112219744229, 5816445348233258416)",
+    "references": [
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "e3abcc37-192e-7387-d92d-88fe8ae36582"
+      },
+      {
+        "propertyName": "_DetailAlbedoTexture",
+        "guid": "e3abcc37-192e-7387-d92d-88fe8ae36582"
+      },
+      {
+        "propertyName": "u_SeenTex",
+        "guid": "e3abcc37-192e-7387-d92d-88fe8ae36582"
+      },
+      {
+        "propertyName": "u_EnvTex",
+        "guid": "00000000-0000-0000-0000-000000000020"
+      },
+      {
+        "propertyName": "u_MRATex",
+        "guid": "2fc12826-d4d6-490a-8af5-70244b30a60f"
+      },
+      {
+        "propertyName": "u_NormalTex",
+        "guid": "8af156d3-ab56-edb6-3319-9367f2fc3f86"
+      },
+      {
+        "propertyName": "u_BentNormalTex",
+        "guid": "00000000-0000-0000-0000-00000000001f"
+      },
+      {
+        "propertyName": "u_DetailNormalTex",
+        "guid": "00000000-0000-0000-0000-00000000001f"
+      },
+      {
+        "propertyName": "u_FlakeTex",
+        "guid": "00000000-0000-0000-0000-00000000001f"
+      },
+      {
+        "propertyName": "u_CoatNormalTex",
+        "guid": "00000000-0000-0000-0000-00000000001f"
+      },
+      {
+        "propertyName": "u_LightMapTex",
+        "guid": "00000000-0000-0000-0000-00000000001f"
+      },
+      {
+        "propertyName": "u_FresnelTex",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "u_EmissiveTex",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "u_ThinTex",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "u_RefractionTex",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "u_DissolveRampTex",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "u_CoatTex",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "u_ScaterTex",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "u_AnisoTex",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "u_HeightTex",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      }
+    ]
+  }
+]

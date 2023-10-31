@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "7b96e03c-9ce5-1124-1697-7d282e8a5880",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "HeadOccluder_Mat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "skinObjGuid": "Guid(5150314719712769197, 8302560790151360898)",
+    "references": []
+  }
+]

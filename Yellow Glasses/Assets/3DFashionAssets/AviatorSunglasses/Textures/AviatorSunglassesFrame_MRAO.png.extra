@@ -1,0 +1,27 @@
+[
+  {
+    "guid": {
+      "a": "e7231912-353b-99d6-587a-504e55903b2c",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "AviatorSunglassesFrame_MRAO",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "guid": {
+      "a": "34791dc0-ea36-19d8-cbb6-4bceaa3ee0ae",
+      "b": ""
+    },
+    "extraType": "ResItemFbxAsset",
+    "name": "AviatorSunglasses_Model",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Model",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "importAnimation": true,
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": false,
+    "materialsGUIDs": [
+      "df658ea9-7ddb-7944-3cf5-7a8bcd21ceb0",
+      "199ff0ef-ba6b-c93a-9fe3-88a8bb7b4d71"
+    ],
+    "meshGUIDs": [
+      "af70c8e7-76d9-0153-4fd8-4a7c58065e00",
+      "91858390-33d4-291c-7162-2afc85406af8"
+    ],
+    "animazGUIDs": []
+  }
+]

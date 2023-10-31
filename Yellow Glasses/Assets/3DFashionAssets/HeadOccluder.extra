@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "75c78e4d-6329-10ab-bfc5-dae2d966e457",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "HeadOccluder",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]
